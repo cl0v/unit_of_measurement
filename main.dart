@@ -111,7 +111,5 @@ class Kind {
 
 /// Usage example:
 void main() {
-  final meter = Meter(10, 1);
-
-  print(meter * Meter(1));
+  
 }
